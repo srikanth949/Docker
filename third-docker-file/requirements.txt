@@ -1,0 +1,10 @@
+# # No packages needed for a simple hello script
+# # We can leave this file empty for now
+# This file lists all Python packages your app needs.
+
+# For a simple hello world, there are no dependencies, so it can remain empty.
+
+# If later you add packages (like Flask, Requests, etc.), you would list them like this:
+
+# flask==2.3.3
+# requests==2.31.0
